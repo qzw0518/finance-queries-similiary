@@ -10,3 +10,5 @@ A project to analyze finance app queries' similiary using siamese network.
 - tensorflow==2.8.0
 - numpy==1.23.1
 - matplotlib==3.5.2
+
+# Requires GPU >= 16G
